@@ -1,40 +1,52 @@
 {
   "meetings": [
     {
-      "title": "this is the title os the meeting",
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
       "time": "4:30pm",
-      "link": "https://brie.fi/ng/outlying-football-68?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "meetingChapter1"
+      "link": "creativeservicesuk.com"
     },
     {
-      "title": "this is the title of 2nd meeting",
-      "time": "2:20pm",
-      "link": "https://brie.fi/ng/outlyingJHGASDAD?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "meetingChapter2"
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
+      "time": "4:30pm",
+      "link": "creativeservicesuk.com"
     },
     {
-      "title": "this is the title of 3rd meeting",
-      "time": "6:40pm",
-      "link": "https://brie.fi/ng/outlyingLKIPOJJIOJKL?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "meetingChapter3"
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
+      "time": "4:30pm",
+      "link": "creativeservicesuk.com"
     },
     {
-      "title": "this is the title of 4rd meeting",
-      "time": "11:40pm",
-      "link": "https://brie.fi/ng/4444444THeFourthmeeetqweqweqhweuiqhweuhqweqw?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "meetingChapter4"
-    },
-     {
-      "title": "this is test meeting",
-      "time": "09:40pm",
-      "link": "https://brie.fi/ng/444444asdasdsad4THeFourthmeeetqweqweqhweuiqhweuhqweqw?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "meetingChapter4LOLOLOLO"
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
+      "time": "4:30pm",
+      "link": "creativeservicesuk.com"
     },
     {
-      "title": "ServerTesting Meeting Here",
-      "time": "09:40pm",
-      "link": "https://brie.fi/ng/444444asdasdsad4THeFourthmeeetqweqweqhweuiqhweuhqweqw?audio=1&video=1&fs=1&invite=0&prefs=1&share=0",
-      "urlTitle": "ServerWorking44444"
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
+      "time": "4:30pm",
+      "link": "creativeservicesuk.com"
+    },
+    {
+      "title": "modlue 1 class bageshwar",
+      "month": "APR",
+      "day": "3",
+      "year": "2021",
+      "time": "4:30pm",
+      "link": "creativeservicesuk.com"
     }
   ]
 }
