@@ -2,12 +2,228 @@
   "files": [
     {
       "syllabus": [
-        { "title": "name of module n all", "url": "https://asdhajsdhlasdh" },
-        { "title": "name of module n all", "url": "https://asdhajsdhlasdh" }
+        {
+          "title": "all modules",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/all.jpeg"
+        },
+        {
+          "title": "chapter1",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+1.pdf"
+        },
+        {
+          "title": "chapter2",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+2.pdf"
+        },
+        {
+          "title": "chapter3",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+3.pdf"
+        },
+        {
+          "title": "chapter4",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+4.pdf"
+        },
+        {
+          "title": "chapter5",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+5.pdf"
+        },
+        {
+          "title": "chapter6",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+6.pdf"
+        },
+        {
+          "title": "chapter7",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+7.pdf"
+        },
+        {
+          "title": "chapter8",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+8.pdf"
+        },
+        {
+          "title": "chapter9",
+          "url": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/syllabus/Lesson+9.pdf"
+        }
       ],
       "usefulLinks": [
-        { "title": "dsafasfasd", "url": "sadakshdkashd" },
-        { "title": "dsafasfasd", "url": "sadakshdkashd" }
+        {
+          "title": "Ministry of Electronics & Information Technology",
+          "url": "http://meity.gov.in/"
+        },
+        {
+          "title": "National Voters Service POrtal",
+          "url": "http://www.nvsp.in"
+        },
+        {
+          "title": "UIDAI",
+          "url": "http://www.uidai.gov.in"
+        },
+        {
+          "title": "NTIPRIT",
+          "url": "http://www.tec.gov.in/ntiprit/"
+        },
+        {
+          "title": "Indiapost-taskforce",
+          "url": "http://www.indiapost-taskforce.in"
+        },
+        {
+          "title": "Bharat Broadband Network Limited",
+          "url": "http://www.bbnl.nic.in"
+        },
+        {
+          "title": "NDSAP",
+          "url": "https://india.gov.in/national-data-sharing-and-accessibility-policy-ndsap"
+        },
+        {
+          "title": "Pensioners'Portal",
+          "url": "http://www.pensionersportal.gov.in"
+        },
+        {
+          "title": "Invest India (for investment related queries)",
+          "url": "http://www.investindia.gov.in"
+        },
+        {
+          "title": "Air India",
+          "url": "http://www.airindia.com"
+        },
+        {
+          "title": "Government of India Website",
+          "url": "http://indiaimage.nic.in"
+        },
+        {
+          "title": "Indian Government Portal",
+          "url": "http://www.india.gov.in"
+        },
+        {
+          "title": "The Parliament of India",
+          "url": "http://www.parliamentofindia.nic.in"
+        },
+        {
+          "title": "Bharat Nirman : A Four year Business Plan",
+          "url": "http://www.bharatnirman.gov.in"
+        },
+        {
+          "title": "Controller of Certifying authorities",
+          "url": "http://www.cca.gov.in"
+        },
+        {
+          "title": "Telecom Disputes Settlement & Appellate Tribunal",
+          "url": "http://www.tdsat.nic.in"
+        },
+        {
+          "title": "Asia-Pacific Telecommunity",
+          "url": "http://www.aptsec.org"
+        },
+        {
+          "title": "Obtaining digital signatures",
+          "url": "http://www.mtnltrustline.com/"
+        },
+        {
+          "title": "Telecom Regulatory Authority of India",
+          "url": "http://www.trai.gov.in"
+        },
+        {
+          "title": "International Telecommunication Union",
+          "url": "http://www.itu.int/en/pages/default.aspx"
+        },
+        {
+          "title": "Center for Development of Telematics",
+          "url": "http://www.cdot.in/"
+        },
+        {
+          "title": "Wireless Planning & Coordination Wing",
+          "url": "http://wpc.dot.gov.in/index.aspx"
+        },
+        {
+          "title": "Bharat Sanchar Nigam Ltd.",
+          "url": "http://www.bsnl.co.in"
+        },
+        {
+          "title": "Indian Telephone Industries Limited",
+          "url": "http://www.itiltd-india.com"
+        },
+        {
+          "title": "Videsh Sanchar Nigam Limited",
+          "url": "http://www.vsnl.net.in"
+        },
+        {
+          "title": "Mahanagar Telephone Nigam Limited",
+          "url": "http://www.mtnl.net.in"
+        },
+        {
+          "title": "Telecommunications Consultants of India Limited",
+          "url": "http://www.tcil-india.com"
+        },
+        {
+          "title": "Sancharnet (BSNL Internet Service)",
+          "url": "http://www.sancharnet.in"
+        },
+        {
+          "title": "Directory of Indian Ministries and Departments",
+          "url": "http://goidirectory.nic.in"
+        },
+        {
+          "title": "Ministry of Finance",
+          "url": "http://www.finmin.nic.in"
+        },
+        {
+          "title": "Ministry of External Affairs",
+          "url": "http://meaindia.nic.in/"
+        },
+        {
+          "title": "Reserve Bank of India",
+          "url": "http://www.rbi.org.in"
+        },
+        {
+          "title": "Securities and Exchange Board of India",
+          "url": " http://www.sebi.gov.in/"
+        },
+        {
+          "title": "Confederation of Indian Industry",
+          "url": "http://www.ciionline.org"
+        },
+        {
+          "title": "Associated Chambers of Commerce",
+          "url": "http://www.assocham.org"
+        },
+        {
+          "title": "Federation of Indian Chambers of Commerce and Industry",
+          "url": "http://www.bisnetindia.com"
+        },
+        {
+          "title": "Cellular Operators Association of India(COAI)",
+          "url": "http://www.coai.com"
+        },
+        {
+          "title": "Government Telephone Numbers",
+          "url": "http://www.sarkaritel.com/"
+        },
+        {
+          "title": "Directorate of Estates",
+          "url": "http://www.estates.nic.in/"
+        },
+        {
+          "title": "Telecom Equipment & Services Export Promotion Council",
+          "url": "http://www.telecomepc.in"
+        },
+        {
+          "title": "Association of Unified Telecom Service Providers of India",
+          "url": "http://www.auspi.in"
+        },
+        {
+          "title": "Telecom Equipment & Services Export Promotion Council - Driving Telecom Exports",
+          "url": "http://www.telecomepc.in/"
+        },
+        {
+          "title": "ओपन ऑफ़िस",
+          "url": "http://www.openoffice.org/"
+        },
+        {
+          "title": "Commerce department",
+          "url": "http://commerce.gov.in/"
+        },
+        {
+          "title": "Online database for identifying accessible devices",
+          "url": "https://www.gari.info/index.cfm"
+        }
       ]
     }
   ]
