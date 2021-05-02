@@ -27,7 +27,8 @@
   ],
   "videos": [
     {
-      "src": "https://www.youtube.com/watch?v=9SskrHFaO7I&ab_channel=SchoolofPoliticalScience"
+      "src": "https://www.youtube.com/watch?v=9SskrHFaO7I&ab_channel=SchoolofPoliticalScience",
+      "id": "9SskrHFaO7I"
     }
   ]
 }
