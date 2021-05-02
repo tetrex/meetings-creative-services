@@ -1,7 +1,29 @@
 {
   "photos": [
-    { "id": 1, "src": "" },
-    { "id": 2, "src": "" }
+    {
+      "id": 1,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/1.jpg"
+    },
+    {
+      "id": 2,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/2.jpg"
+    },
+    {
+      "id": 3,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/3.jpg"
+    },
+    {
+      "id": 4,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/4.jpg"
+    },
+    {
+      "id": 5,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/5.jpg"
+    },
+    {
+      "id": 6,
+      "src": "https://creative-services-website-assets.s3.ap-south-1.amazonaws.com/photoGallery/6.jpg"
+    }
   ],
   "videos": [
     { "id": 1, "src": "" },
